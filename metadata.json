@@ -1,0 +1,8 @@
+
+{
+  "name": "Ludo_Consulting Portfolio",
+  "description": "A high-end, modern professional portfolio for Ludo_Consulting, featuring a Gemini-powered AI assistant and sleek UI/UX components.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
