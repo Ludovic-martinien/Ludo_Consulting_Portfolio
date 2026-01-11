@@ -1,0 +1,61 @@
+{
+  "hash": "4960ac60",
+  "configHash": "fd3132fb",
+  "lockfileHash": "4d3a1d18",
+  "browserHash": "bc3e17bf",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "10f54011",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "9902b8c5",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "575ee4da",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "070786d6",
+      "needsInterop": true
+    },
+    "axios": {
+      "src": "../../axios/index.js",
+      "file": "axios.js",
+      "fileHash": "c919fe67",
+      "needsInterop": false
+    },
+    "qrcode.react": {
+      "src": "../../qrcode.react/lib/esm/index.js",
+      "file": "qrcode__react.js",
+      "fileHash": "0dfc872e",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c845bed5",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-267TKXDS": {
+      "file": "chunk-267TKXDS.js"
+    },
+    "chunk-KEQAXXRI": {
+      "file": "chunk-KEQAXXRI.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
